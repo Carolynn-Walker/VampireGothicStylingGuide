@@ -1,0 +1,120 @@
+/* Universal */
+html {
+    text-align: center;
+    background-color: #7A0000;
+    font-family: 'Modern Antiqua', 'Times New Roman', serif;
+  }
+  body {
+    margin: 0px;
+  }
+  .nav, .color {
+    font-family: 'Modern Antiqua', cursive, serif;
+  }
+  h1, h2 {
+    font-family: 'Srisakdi', cursive, serif;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  section {
+    background-color: #010203;
+    border-radius: 5px;
+    color: #F1FFFF;
+  }
+  /* Header */
+  header {
+    height: 100%;
+    padding: 10px;
+    background-color: #5B0000;
+    color: #AD3232;
+  }
+  .nav li {
+    padding: 10px 35px;
+    margin: 20px 0px;
+    display: inline;
+  }
+  .nav a {
+    text-decoration: none;
+    color: #F1FFFF;
+  }
+  
+  /* Colors */
+  .color {
+    border-radius: 5px;
+    background-color: #333435;
+  }
+  #color-heading {
+    padding-top: 10px
+  }
+  .color ul {
+      margin: 20px;
+  }
+  .color li {
+    display: inline-block;
+      margin: 5px;
+    padding: 30px 10px;
+    border: 1px solid #010203;
+    border-radius: 10px;
+    color: #F1FFFF;
+  }
+  #black {
+    background-color: #010203;
+  }
+  #dark-gray {
+    background-color: #333435;
+  }
+  #gray {
+    background-color: #666767;
+  }
+  #light-gray {
+    background-color: #99999a;
+  }
+  #darker-red {
+    background-color: #5B0000;
+  }
+  #dark-red {
+    background-color: #7A0000;
+  }
+  #red {
+    background-color: #990000;
+  }
+  #light-red {
+    background-color: #AD3232;
+  }
+  /* Fonts */
+  #fonts {
+    border: 5px solid #010203;
+  }
+  
+  table {
+    border-radius: 5px;
+    background-color: #010203;
+    margin: 0px;
+    padding: 0px;
+  }
+  td, th {
+    margin: 0px;
+    border-radius: 5px;
+  }
+  th {
+    color: #AD3232;
+    background-color: #333435;
+  }
+  td {
+    color: #010203;
+    background-color: #f1ffff;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .italic {
+    font-style: italic;
+  }
+  #srisakdi {
+    font-family: 'Srisakdi', cursive, serif;
+  }
+  #modern-antiqua, th {
+    font-family: 'Modern Antiqua', serif;
+  }
+  /* Elemnt Stylings */
+  
