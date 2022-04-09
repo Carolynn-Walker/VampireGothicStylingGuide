@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'dearestregular';
+    font-family: 'Dearest';
     src: url('web fonts/Dearest-webfont.eot');
     src: url('web fonts/Dearest-webfont.eot?#iefix') format('embedded-opentype'),
          url('web fonts/Dearest-webfont.woff2') format('woff2'),
@@ -26,7 +26,7 @@ html {
     font-family: 'Srisakdi', cursive, serif;
   }
   h1 {
-      font-family: 'Dearest-webfont', 'Modern Antiqua', 'Times New Roman', serif;
+      font-family: 'Dearest', 'Modern Antiqua', 'Times New Roman', serif;
   }
   section {
     background-color: #010203;
