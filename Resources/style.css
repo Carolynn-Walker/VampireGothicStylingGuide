@@ -1,11 +1,6 @@
 @font-face {
     font-family: 'Dearest';
-    src: url('web fonts/Dearest-webfont.eot');
-    src: url('web fonts/Dearest-webfont.eot?#iefix') format('embedded-opentype'),
-         url('web fonts/Dearest-webfont.woff2') format('woff2'),
-         url('web fonts/Dearest-webfont.woff') format('woff'),
-         url('web fonts/Dearest-webfont.ttf') format('truetype'),
-         url('web fonts/Dearest-webfont.svg#dearestregular') format('svg');
+    src: url('web fonts/Dearest-webfont.woff');
     font-weight: normal;
     font-style: normal;
 
